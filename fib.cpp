@@ -13,6 +13,7 @@ int main(){
         cout<<next<<" ";
     }
     cout<<"";
+    cout<<"";
     return 0;
     
 }
